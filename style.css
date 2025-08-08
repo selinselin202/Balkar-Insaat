@@ -649,7 +649,7 @@ img {
 
  .quote-section {
       position: relative;
-      background: url('insaatiscileri.jpg') no-repeat center center;
+      background: url('images--/insaatiscileri.jpg') no-repeat center center;
       background-size: cover;
       min-height: 200px;
       display: flex;
@@ -694,6 +694,7 @@ img {
       font-size: 0.85rem;
       margin-left: 0.5rem;
     }
+
 
 
 
